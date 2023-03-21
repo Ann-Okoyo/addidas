@@ -15,6 +15,7 @@
 .ann4{
     float: right;
     
+    
 
 }
 .annie{
@@ -301,6 +302,7 @@ footer{
 
 
 }
+
 .katey{
     width: 20%;
     margin-bottom: 70px;
@@ -635,11 +637,106 @@ body{
     justify-content: space-between;
 }
 .col{
-   margin-bottom: 80px; 
-   width:20% ;
+   /* margin-bottom: 80px; 
+   width:20% ; */
 
 
 }
+@media(max-width:1200px) {
+body{
+    overflow-x: hidden;
+    width: 70%
+}
+.ann4{
+     margin-right: 800px;
+}
+.lady2{
+    width: 90px;
+    height:90px;
+}
+.lady{
+    width: 10%;
+    height: 25%;
+}
+.lady8{
+    width: 10%;
+    height: 25%;
+}
+.lady13{
+    width: 10%;
+    height: 25%;
+}
+.lady15{
+    width: 90px;
+    height:90px;
+
+}
+.lady2{
+    width: 90px;
+    height:90px;
+
+}
+.lady{
+    width: 10%;
+    height: 25%;
+}
+.lady5{
+
+}
+.jeff{
+    margin-right: 700px;
+}
+.ann11{
+    margin-right: 500px;
+    font-size: 20px;
+}
+.mani{
+    margin-right: 500pc;
+}
+/* .ann12{
+    width: 90px;
+    height:90px;
+} */
+/* .thefirst{
+    
+    width: 20px;
+    height:20px;
+} */
+/* .univ{
+    width: 90px;
+    height:90px
+     
+} */
+/* .intel{
+    width: 20px;
+    height:20px;
+
+} */
+/* .miss{
+    width: 90px;
+    height:90px
+
+} */
+/* .world{
+    width: 90px;
+    height:90px
+
+} */
+/* .cate{
+    margin-right: 900px;
+}
+.picture8{
+    margin-right: 70%;
+} */
+}
+
+
+
+
+
+
+
+
 /* .katey{
     width: 20%;
     margin-bottom: 70px; */
@@ -703,14 +800,526 @@ color: black;
     color: black;
 }
 
-.signUp{
+/* .signUp{
     position: relative;
     border-radius: 30px;
     color: rgb(255, 0, 85);
     left: 400px;
+} */
+.fox1{
+    
+    display: flex;
+    list-style: none;
+}
+.antelop{
+    width: 500px;
+     height: 500px; 
+     padding-left: 150px;
+     
+    background-color: white; 
+    
+}
+.lion1{
+    width: 250px;
+    height: 250px;
+    
+
+}
+.fox2 ul li{
+    display: flex;
+    list-style: none;
+
+}
+.kate a {
+    text-decoration: none;
+    padding: 1px 2px ;
+
+}
+.terry{
+    display: flex;
+}
+.rita {
+    display: flex;
+    list-style: none;
+    
+
+}
+.siz{
+    display: flex;
+    list-style: none;
+    
+}
+.ann1{
+    display: flex;
+}
+
+    
+
+.lion2{
+    width: 250px;
+    height: 250px;
+    
+
+    
+}
+.lion3{
+ width: 250px;
+ height: 250px;
+ 
+    
+
+}
+.gazel{
+    display: flex;
+}
+body{
+    background-color: whitesmoke;
+   
+
+}
+
+.gubo{
+    color: #f66666;
+}
+.we{
+    color: #f66666;
+}
+.smart{
+    color: #f66666;
+    margin-left: 30%;
+}
+.se{
+    border-radius: 10%;
+    color: #f66666;
+}
+.rabit{
+    color: #f66666;
+}
+.leg{
+    background-color: #f66666;
+    text-decoration: white;
+
+}
+.sera{
+    text-decoration: #eff6;
+}
+.foxy{
+    text-align: center;
+}
+.omar3{
+    width: 250px;
+    height: 250px;
+    transform: rotate(320deg);
+}
+.omar7{
+    transform: rotate(320deg);
+    width:250px ;
+    height: 250px;;
+}
+.omarme{
+    width: 250px;;
+    height: 250px;;
+    transform: rotate(320deg);
+
+    
+
+}
+.omar15{
+    transform: rotate(320deg);
+    width:250px;
+    height:250px;
+}
+.success{
+    display: flex;
+    justify-content: space-evenly;
+}
+.chanty{
+    background-color: white;
+    
+    
+    gap: 40px;
+
+
+
+}
+.omar5{
+    background-color: white;
+}
+.omar10{
+    background-color: white;
+    
+}
+.omar13{
+    background-color: white;
+
+
+}
+.material-symbols-outlined{
+    padding-left: 40px;
+
+}
+.view{
+   font-size: large;
+}
+.footer{
+    display: flex;
+}
+.footer{
+    padding: 1.0rem;
+    min-width: 12.0rem;
+
+}
+.bruce2{
+    width: 100%;
+    position: absolute;
+    background: linear-gradient(to right);
+    padding: 8px 0px 10px;
+    border-top-left-radius:50px ;
+    font-size: 13px;
+    line-height: 15px;
+    color:white;
+    background-color:#f66666;
+    
+    
+}
+.row{
+    width: 85%;
+    margin:auto;
+    display: flex;
+    flex-wrap:wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.col{
+   margin-bottom: 80px; 
+   width:20% ;
+
+
+}
+/* .katey{
+    width: 20%;
+    margin-bottom: 70px; */
+
+.harry ul li{
+    display: flex;
+    display: inline-block;
+    justify-content: space-between;
+     padding: 10px 20px;
+    /* padding-left:10% ;
+    padding-right: 10%;  */
+    list-style: none;
+}
+.jon3 ul li{
+    display: flex;
+    display: inline-block;
+    justify-content: space-between;
+    padding: 10px 20px;
+    color: white;
+    margin-left: 40px;
+
+
+}
+.jon{
+    color: white;
+}
+.se{
+    font-size: 80%;
+}
+.zeb1{
+    
+
+    width: 70px;
+    height: 60px;
+}
+.zeb2{
+    width: 30px;
+    height: 30px;
+    margin-bottom: 30px;
+}
+.zeb3{
+    width:30px ;
+    height: 30px;
+    margin-bottom: 30px;
+}
+.zeb4{
+    width:30px ;
+    height: 30px;
+    margin-bottom: 30px;
+
+}
+.rita{
+    color: black;
+}
+.harry{
+    color: black;
+}
+.rita ul{
+    color: black;
 }
 @media(max-width:800px) {
     
+}
+
+
+
+
+@media(max-width:800px) {
+    
+}
+.togo{
+    
+
+    display: flex;
+    /* background-color: whitesmoke; */
+    
+}
+.ann{
+    display: flex;
+}
+.amazing2 ul li{
+    display: inline-block;
+    list-style: none;
+    margin-left: 40px;
+    font-size: 20px;
+
+
+}
+.amazing4 ul li {
+    display: inline-block;
+    list-style: none;
+    gap: 10em;
+    justify-content: space-between;
+    margin-left: 180px;
+    font-size: 20px;
+    
+   
+    
+    
+
+}
+/* .amazing4{
+    background-image: url(/bg.png);
+    height: 460px;
+    width: px;
+} */
+.amazing3{
+    color: red;
+}
+.top{
+    text-align: center;
+    font-size: 40px;
+    /* background-color: whitesmoke; */
+}
+.top2{
+    width: 450px;
+    height: 450px;
+}
+.top1{
+    display: flex;
+}
+.lady1{
+    height: 40px;
+    margin-left: 30px;
+    background-color: red;
+    text-decoration: black;
+    border-radius: 10px;
+
+}
+.top1{
+    /* background-color: whitesmoke; */
+}
+.top2{
+    border-radius: 20px;
+}
+.father1{
+    display: flex;
+    background-color: whitesmoke;
+}
+.father4{
+    width: 450px;
+    height: 450px;
+    border-radius: 20px;
+}
+.father3{
+    display: flex;
+    background-color: whitesmoke;
+}
+.gef1{
+     width: 100%; 
+    /* position: absolute; */
+    background: linear-gradient(to right);
+    padding: 8px 0px 10px;
+    /* border-top-left-radius:50px ; */
+    font-size: 13px;
+    line-height: 12px;
+    color:white;
+    background-color:#f66666;
+    
+    
+}
+.gef2{
+    width: 85%;
+    margin:auto;
+    display: flex;
+    flex-wrap:wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.gef3{
+    margin-bottom: 80px; 
+   width:20% ; 
+}
+.star1{
+    
+
+    width: 70px;
+    height: 60px;
+}
+.star2{
+    width: 30px;
+    height: 30px;
+    margin-bottom: 30px;
+}
+.star3{
+    width:30px ;
+    height: 30px;
+    margin-bottom: 30px;
+}
+.star4{
+    width:30px ;
+    height: 30px;
+    margin-bottom: 30px;
+}
+.app{
+    font-size: 40px;
+}
+.shee{
+    text-align: center;
+}
+.togo{
+    /* margin-right: 40rem; */
+    background-image: url();
+}
+.top1{
+    margin-left: 50px;
+}
+/* .got{
+/* / */
+
+
+    .jakes1{
+        padding:5%;
+        margin-top: 5cm;
+    }
+.musa1{
+    text-align: center;
+}
+.muxi{
+    list-style: none;
+    text-align: center;
+    border-radius: 20px;
+
+}
+.b{
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+    /* padding: 20px 20px 20px; */
+
+.sub{
+    border-radius: 20px;
+    background-color: red;
+    text-align: center;
+    text-decoration: black;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.breathe1{
+          /* background-image:url(/figma.png);
+} */
+}
+.woman1{
+    padding: 20px 8px 20px;
+    border-radius: 20px;
+}
+.woman2{
+    padding: 20px 8px 20px;
+    border-radius: 20px;
+}
+.woman3{
+    padding: 20px 8px 20px;
+    border-radius: 20px;
+}
+.woman4{
+    padding: 20px 8px 20px;
+    border-radius: 20px;
+}
+.women{
+    padding: 80px 10px 80px;
+     margin-left:50px ;
+     margin-right: 50px;
+     width:270px;
+     border-radius: 20px;
+     
+}
+.milly{
+    background-color: whitesmoke;
+
+}
+.meg{
+    background-color: whitesmoke;
+}
+.greta{
+
+}
+/* .ebe{
+    font-size: 25px;
+} */
+/* .beauty1{
+    background-image: url(/bg.png);
+    height: 460px;
+    width: px;
+
+} */
+body{
+  width: 100%;
+  overflow-x: hidden;
+}
+@media(max-width:1200px){ 
+    body{
+
+    }
+.amazing2{
+    margin-left: -8%;
+}
+}
+@media(max-width:992px){
+    .amazing2{
+        margin-right: -18%;
+
+    }
+    body{
+        width: 100%;
+        overflow-x: hidden;
+    }
+}
+@media(max-width:768px){
+     .lady1{
+        margin-bottom: 1%;
+     }
+    .app{
+        margin-top:5%;
+    }
+    .amazing2{
+        margin-left:-8%;
+    }
+    .amazing3{
+        margin-left: 20px;
+    }
 }
 
 
