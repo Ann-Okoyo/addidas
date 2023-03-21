@@ -729,7 +729,45 @@ body{
     margin-right: 70%;
 } */
 }
+@media(max-width:768px) {
+    .ann2{
+    
+    }
+    .pulvinar{
+        margin-left: -150px;
+    }
+    .ann11{
+        padding-top: 15%;
+        margin-left: 35%;
+        
+    }
+    .jon{
+        text-align: center;
+        display: inline-block;
+    }
+    .becky{
+        border-radius: 140px;
+    }
+    .TECH{
 
+    padding-left: 2%;
+    padding-right: 2%;
+    gap: -18%;
+    }
+    .fish{
+        
+    }
+    .lady5{
+        width: 90px;
+    height:90px; 
+        
+    
+    }
+    .lady4{
+        width: 20%;
+        height: 40%;
+    }
+}
 
 
 
